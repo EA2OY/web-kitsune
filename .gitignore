@@ -1,0 +1,14 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Herramientas de desarrollo y verificación (no forman parte de la web)
+.dev/
+capturas/
+*.log
+
+# Copia local de las fotos originales con EXIF (GPS y datos del dispositivo).
+# Se excluye a propósito: el repositorio es público y esos metadatos no deben
+# publicarse. Las copias siguen disponibles en tu ordenador.
+originales/

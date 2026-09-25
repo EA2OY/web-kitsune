@@ -1,0 +1,9 @@
+# Normaliza los finales de línea: evita que GitHub muestre ficheros
+# completos como modificados cuando se edita desde Windows.
+* text=auto eol=lf
+
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.ico binary
